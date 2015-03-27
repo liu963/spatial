@@ -1,5 +1,6 @@
 function Sigma = spatialcovmat(sampvar,staxy,model,dodisp)
-
+% function Sigma = spatialcovmat(sampvar,staxy,model,dodisp)
+%
 % Populate empirical covariance matrix of spatial data given a model of distance-
 % based autocovariance.
 % 
