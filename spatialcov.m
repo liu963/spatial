@@ -1,4 +1,5 @@
 function COV = spatialcov(x,XY,D,normalize)
+% function COV = spatialcov(x,XY,D,normalize)
 %
 % Compute sample autocovariance of field variable measured at a set of
 % spatial sites as a function of lag distance.
