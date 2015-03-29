@@ -1,4 +1,4 @@
-## Spatial analysis
+## Spatial correlation analysis
 
 Code related to spatial analysis 
 
